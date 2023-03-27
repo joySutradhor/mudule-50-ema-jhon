@@ -1,0 +1,38 @@
+.singleProduct img {
+    height: 230px;
+    
+}
+
+.singleProduct {
+    border: 1px solid seagreen;
+    border-radius: 5px;
+    height: 470px;
+    /* padding: 10px; */
+}
+
+.singleProduct p , h6 {
+    margin-left: 20px;
+}
+.productImg{
+    text-align: center;
+}
+.productImg img{
+    border-radius: 10px;
+}
+
+.btn{
+    width: 100%;
+    background-color: #e47911;
+    padding: 8px;
+    border: none;
+    font-size: 16px;
+    position: absolute;
+    bottom: 0;
+    border-radius: 3px;
+    color: antiquewhite;
+    cursor: pointer;
+}
+
+.parentSingleProduct {
+    position: relative;
+}
